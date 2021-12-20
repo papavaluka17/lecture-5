@@ -1,0 +1,26 @@
+/*header*/
+.logo{
+	font-size: 38px;
+	color: #FA6980;
+	margin-left: 20px;
+	margin-right: 40px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li{
+	display: inline-block;
+	margin-right: 18px;
+
+}
+
+.nav-a{
+	color: #343638;
+	font-size: 11px;
+}
+/*end header*/
