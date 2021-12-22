@@ -26,7 +26,7 @@ nav{
 	vertical-align: middle;
 }
 
-li{
+.li-1{
 	display: inline-block;
 	margin-right: 18px;
 
@@ -146,5 +146,64 @@ h1{
 	width: 760px;
     height: 430px;
     vertical-align: middle;
+    margin-bottom: 110px;
 
 }
+
+/*section2 end*/
+/*footer*/
+
+
+.box{
+	width: 1440px;
+	height: 200px;
+	margin: 0 auto;
+	background: #A6ADB4;
+	padding-top: 58px;
+	border: 1px #A6ADB4 solid;
+	vertical-align: top;
+}
+
+.footer-h3{
+	padding-left: 142px;	
+	display: inline-block;
+	color: #FFFFFF;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.footer-li{
+	padding-left: 126px;
+	line-height: 30px;
+	color: #CBD0D3;
+	font-size: 13px;
+
+}
+
+.footer-li-1{
+	padding-left: 50px;
+	line-height: 30px;
+	color: #CBD0D3;
+	font-size: 13px;
+}
+
+ol{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.li-3{
+	padding-left: 109px;
+	color: #CBD0D3;
+	font-size: 11px;
+}
+
+.div-2{
+	display: inline-block;
+    vertical-align: top;
+    margin-left: 100px;
+ }
+
+ .footer-a{
+ 	margin-left: 20px;
+ }
